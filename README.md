@@ -25,3 +25,8 @@ git clone https://github.com/FroZnShiva/Textual-Style-Tomorrow.git Tomorrow
 ```
 
 Then just open the Preferences of Textual (`⌘,`) go to *Styles* and select **Tomorrow**.
+
+## Color Variations
+
+* [Tomorrow](https://github.com/FroZnShiva/Textual-Style-Tomorrow)
+* [Tomorrow Night](https://github.com/FroZnShiva/Textual-Style-Tomorrow_Night)
