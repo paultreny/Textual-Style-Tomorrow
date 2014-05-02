@@ -127,7 +127,6 @@ a:hover {
 	color: #718C00; /* Tomorrow Night Blue: Green */
 	position: fixed;
 	padding: 2px 0.5em 3px;
-	border-bottom: 1px solid #D1F1A9; /* Tomorrow Night Bright: Green */
 	background-color: rgba(209, 241, 169, 0.95); /* Tomorrow Night Blue: Green 95% */
 	-webkit-transition: opacity 0.8s linear;
 	overflow: hidden;
